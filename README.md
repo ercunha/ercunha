@@ -9,6 +9,8 @@
 - 🔭 Currently working with .NET solutions at [Jornal Correio do Povo](https://correiodopovo.com.br/)
 
 - 📫 E-mail: **evandrordacunha@gmail.com**
+- [Github 2](https://github.com/evandrordacunha/)
+
 
 
 <h3 align="left">Languages and Tools:</h3>
