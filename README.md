@@ -13,5 +13,5 @@ Olá! Sou um entusiasta da tecnologia apaixonado por programação e desenvolvim
 
 ## Contato
 
-- GitHub: [ercunha](https://github.com/ercunha/ercunha/edit/main/README.md)
+- GitHub: [ercunha](https://github.com/ercunha)
 - Email: evandrordacunha@gmail.com
