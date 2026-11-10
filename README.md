@@ -185,10 +185,6 @@ Certificações e cursos concluídos (conforme perfil do LinkedIn):
 | **ASP.NET Core MVC** | RL System | jun. 2018 | — |
 | **Construindo Sistemas usando IoT (Huawei/PUCRS)** | Huawei | jan. 2018 | `138349-13-1` |
 
-## 📚 Estudos e exercícios
-
-**Estudos e exercícios:** [Csharp](https://github.com/ercunha/Csharp) · [Phyton](https://github.com/ercunha/Phyton) · [JSAnalisadorNumero](https://github.com/ercunha/JSAnalisadorNumero) · [JSTabuada](https://github.com/ercunha/JSTabuada) · [JSContadorInterativo](https://github.com/ercunha/JSContadorInterativo)
-
 ## 🤝 Comunidade
 
 [**GuiaDevBrasil**](https://github.com/ercunha/GuiaDevBrasil) — guia extenso de programação com trilhas, ferramentas e conteúdos para desenvolvedores. ⭐ 19
