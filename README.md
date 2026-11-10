@@ -46,26 +46,26 @@ Além da atuação corporativa, desenvolvo e mantenho um ecossistema de **produt
 
 ### 🚀 Projetos em Destaque
 
-* 🎮 **[Corra, Dupla, Corra!](https://corraduplacorra.runasp.net/)**  
-  *Endless runner* web e fan-made baseado no clássico clássico Gre-Nal.
+- 🎮 **[Corra, Dupla, Corra!](https://corraduplacorra.runasp.net/)**  
+  *Endless runner* web e fan-made baseado no clássico Gre-Nal.
 
-* 🐶 **[PetCron](https://petcron.com.br)**  
+- 🐶 **[PetCron](https://petcron.com.br)**  
   Sistema completo para gestão de saúde e rotina de pets.
 
-* 🐾 **[Adote 4 Patas](https://adote4patas.com.br)**  
+- 🐾 **[Adote 4 Patas](https://adote4patas.com.br)**  
   Plataforma digital independente para conectar animais de abrigos a novos tutores.
 
-* 🛠️ **[JSON Formatter](https://jsonformatter.dev.br)**  
-  Ferramenta web gratuita para manipulação, formatação e validação de dados JSON.Json Formatter] (https://jsonformatter.dev.br) - Ferramenta online e gratuita voltada para desenvolvedores e profissionais de tecnologia, destinada a manipular, formatar e validar dados em formato JSON.
+- 🛠️ **[JSON Formatter](https://jsonformatter.dev.br)**  
+  Ferramenta web gratuita e voltada para desenvolvedores e profissionais de tecnologia, destinada a manipular, formatar e validar dados em formato JSON.
    
 - 🤝 **Disponível para:** oportunidades, colaborações e trocas sobre tecnologia
 
 ## 💼 Experiência
 
-**Desenvolvedor .NET (Full Stack)** — desde 2020
+**Desenvolvedor .NET (Full Stack)** — desde 2020  
 Desenvolvimento de aplicações corporativas com **C#**, **.NET** e **Blazor Server**, incluindo relatórios fiscais, consultas SQL e integrações com banco de dados. Foco em qualidade de código, boas práticas e entrega de valor.
 
-**Tecnologia da Informação** — mais de 15 anos
+**Tecnologia da Informação** — mais de 15 anos  
 Atuação em infraestrutura e processos, com visão de ponta a ponta do ciclo de desenvolvimento de software, combinando experiência técnica com entendimento de negócio.
 
 ## 🛠️ Tecnologias
@@ -99,7 +99,6 @@ Atuação em infraestrutura e processos, com visão de ponta a ponta do ciclo de
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
@@ -138,7 +137,7 @@ Produtos próprios desenvolvidos e publicados, atendendo usuários reais:
 
 <p align="center">
   <a href="https://corraduplacorra.runasp.net/">
-    <img src="https://github.com/ercunha/CorraDuplaCorra/blob/main/CorraDuplaCorra/wwwroot/Corra%20Dupla%20Corra_%20grenalRivalidade%20Fantasma.jpg?raw=true" alt="Gameplay de Corra, Dupla, Corra!" width="820" />
+    <img src="https://raw.githubusercontent.com/ercunha/CorraDuplaCorra/main/CorraDuplaCorra/wwwroot/Corra%20Dupla%20Corra_%20grenalRivalidade%20Fantasma.jpg" alt="Gameplay de Corra, Dupla, Corra!" width="820" />
   </a>
 </p>
 
