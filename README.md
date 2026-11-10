@@ -37,7 +37,12 @@ Além do trabalho corporativo, desenvolvo e mantenho **produtos próprios em pro
 - 🎯 **Foco atual:** desenvolvimento full stack com **C#/.NET**, **Blazor Server** e **SQL**
 - 📚 **Estudando:** arquitetura de software, cloud e testes automatizados
 - 🧩 **Metodologias:** Scrum e boas práticas de engenharia
-- 🎮 **Destaque:** [Corra, Dupla, Corra!](https://corraduplacorra.runasp.net/) - endless runner fan-made do clássico Gre-Nal
+-  **Destaques:** 
+   🎮 [Corra, Dupla, Corra!](https://corraduplacorra.runasp.net/) - endless runner fan-made do clássico Gre-Nal.
+   🐶 [PetCron] (https://petcron.com.br) - Sistema completo de gestão de saúde de pets.
+   🐾 [Adote 4 Patas] (https://adote4patas.com.br) - Plataforma digital independente voltada para a causa  possibilitante a conexão de animais de abrigos com possíveis novos tutores.
+   { }[Json Formatter] (https://jsonformatter.dev.br) - Ferramenta online e gratuita voltada para desenvolvedores e profissionais de tecnologia, destinada a manipular, formatar e validar dados em formato JSON.
+   
 - 🤝 **Disponível para:** oportunidades, colaborações e trocas sobre tecnologia
 
 ## 💼 Experiência
@@ -67,6 +72,8 @@ Atuação em infraestrutura e processos, com visão de ponta a ponta do ciclo de
 **Front-end & Mobile**
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -76,12 +83,15 @@ Atuação em infraestrutura e processos, com visão de ponta a ponta do ciclo de
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Google Antigravity](https://img.shields.io/badge/Google%20Antigravity-4285F4?style=flat-square&logo=google&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=flat-square&logo=androidstudio&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=flat-square&logo=adobephotoshop&logoColor=white)
 
-
-> Também mantenho estudos em **Python** e exercícios de **JavaScript**, além de automação com **Selenium**.
+> Também mantenho estudos em **Python** e exercícios de **JavaScript**.
 
 ## 📊 Estatísticas do GitHub
 
@@ -136,15 +146,31 @@ Endless runner fan-made inspirado no clássico **Gre-Nal**. O jogador escolhe en
   </a>
 </p>
 
-## 📂 Outros projetos
+## 🎓 Certificações
 
-| Projeto | O que é | Stack |
-| :--- | :--- | :--- |
-| [**Todo React**](https://github.com/ercunha/todo-react) · [🎮 Demo](https://todo-react-eight-gold.vercel.app) | Lista de tarefas com React e uma API fake para simular as operações de CRUD. | React · JavaScript |
-| [**Gerenciador de Projetos**](https://github.com/ercunha/GerenciadorProjetos) | Aplicativo mobile para cadastro e acompanhamento de projetos. | React Native |
-| [**Sistema de Tarefas**](https://github.com/ercunha/SistemaTarefas) | Web API para gerenciamento de tarefas. | ASP.NET Core · C# |
-| [**FipeVeiculos**](https://github.com/ercunha/FipeVeiculos) | Consulta de veículos pela tabela FIPE. | C# · .NET |
-| [**SosResgate**](https://github.com/ercunha/SosResgate) | Projeto de resgate/socorro. | C# · .NET |
+Certificações e cursos concluídos (conforme perfil do LinkedIn):
+
+| Certificação | Instituição | Emissão | Credencial |
+| :--- | :--- | :--- | :--- |
+| **Introduction to Applied Data Science With Python** | Simplilearn | set. 2026 | `10679741` |
+| **Engenharia de Prompt para Engenheiros de Software** | Universidade de São Paulo (USP) | mar. 2026 | `AL4Q-MLGJ-QN6Q-N41C` |
+| **Generative AI** | Massachusetts Institute of Technology (MIT) | jan. 2025 | `OA-2025-0115000738879` |
+| **Cybersecurity Awareness - CAPC** | Certiprof | nov. 2024 | `9be67b40` |
+| **Design Sprint Professional Certification (DSPC™)** | Certiprof | out. 2024 (exp. jul. 2034) | Credly badge |
+| **Desenvolvimento de Sistemas Web - Básico** | Recode | jun. 2023 | `647f4d01-dc50-421b-8578-66c40a010069` |
+| **Lean Six Sigma White Belt (LSSWBPC)** | Certiprof | fev. 2023 | `83396345` |
+| **Business Intelligence Foundation (BIFPC)** | Certiprof | fev. 2023 | `83291062` |
+| **Business Model Canvas Essentials (BMCEPC)** | Certiprof | fev. 2023 | `83269433` |
+| **Fundamentos na LGPD** | Certiprof | out. 2021 | `70399796` |
+| **Programação Front End (Estação Hack / Facebook)** | Digital House Brasil | out. 2020 | — |
+| **Kanban Foundation (KIKF)** | Certiprof | set. 2020 (exp. set. 2022) | `45880202` |
+| **DevOps Essentials (DEPC)** | Certiprof | jul. 2020 | `42638465` |
+| **Scrum Foundation Professional Certificate** | Certiprof | jun. 2020 | `JLSRTRFTHS-VVCVZWHV-YBJDQDWWBJ` |
+| **AWS Academy Cloud Foundations (ACF)** | AWS Academy | jun. 2019 | — |
+| **ASP.NET Core MVC** | RL System | jun. 2018 | — |
+| **Construindo Sistemas usando IoT (Huawei/PUCRS)** | Huawei | jan. 2018 | `138349-13-1` |
+
+## 📚 Estudos e exercícios
 
 **Estudos e exercícios:** [Csharp](https://github.com/ercunha/Csharp) · [Phyton](https://github.com/ercunha/Phyton) · [JSAnalisadorNumero](https://github.com/ercunha/JSAnalisadorNumero) · [JSTabuada](https://github.com/ercunha/JSTabuada) · [JSContadorInterativo](https://github.com/ercunha/JSContadorInterativo)
 
