@@ -25,23 +25,38 @@
 
 ---
 
-## 👋 Sobre mim
+## 👋 Sobre Mim
 
-Sou **desenvolvedor .NET (Full Stack)** com mais de **15 anos de experiência em tecnologia da informação**, atuando em infraestrutura, processos e desenvolvimento de software. Graduado em **Sistemas de Informação pela PUCRS**, sou apaixonado por tecnologia e por novos desafios.
+Sou **Desenvolvedor .NET Full Stack** com mais de **15 anos de experiência em TI**, transitando por infraestrutura, processos e engenharia de software. Graduado em **Sistemas de Informação pela PUCRS**, sou movido por resolução de problemas e evolução tecnológica constante.
 
-Desde 2020 trabalho com **C# e .NET**, com foco em aplicações **Blazor Server** e **ASP.NET Core** para ambientes corporativos. Tenho experiência com **relatórios fiscais, consultas SQL** e construção de soluções de ponta a ponta, sempre com atenção à **qualidade de código** e **boas práticas de desenvolvimento**. Também atuo com **Java, Android e Front-end**.
+Desde 2020 foco na construção de aplicações corporativas com **C#**, **.NET**, **Blazor Server** e **ASP.NET Core**, atuando na criação de soluções de ponta a ponta — do backend e modelagem SQL a relatórios fiscais e interfaces web. Tenho histórico prático com **Java**, **Android** e **Front-end**.
 
-Além do trabalho corporativo, desenvolvo e mantenho **produtos próprios em produção**, voltados para adoção de animais, gestão de saúde de pets, ferramentas para desenvolvedores e jogos web.
+Além da atuação corporativa, desenvolvo e mantenho um ecossistema de **produtos próprios em produção**, cobrindo áreas como causa animal, utilitários para devs e jogos web.
 
-- 📍 **Localização:** Gravataí / RS - Brasil
-- 🎯 **Foco atual:** desenvolvimento full stack com **C#/.NET**, **Blazor Server** e **SQL**
-- 📚 **Estudando:** arquitetura de software, cloud e testes automatizados
-- 🧩 **Metodologias:** Scrum e boas práticas de engenharia
--  **Destaques:** 
-   🎮 [Corra, Dupla, Corra!](https://corraduplacorra.runasp.net/) - endless runner fan-made do clássico Gre-Nal.
-   🐶 [PetCron] (https://petcron.com.br) - Sistema completo de gestão de saúde de pets.
-   🐾 [Adote 4 Patas] (https://adote4patas.com.br) - Plataforma digital independente voltada para a causa  possibilitante a conexão de animais de abrigos com possíveis novos tutores.
-   { }[Json Formatter] (https://jsonformatter.dev.br) - Ferramenta online e gratuita voltada para desenvolvedores e profissionais de tecnologia, destinada a manipular, formatar e validar dados em formato JSON.
+---
+
+### 📌 Visão Geral
+
+- 📍 **Localização:** Gravataí / RS — Brasil
+- 🎯 **Foco Atual:** Desenvolvimento Full Stack (`C#`, `.NET`, `Blazor Server`, `SQL Server/PostgreSQL`)
+- 📚 **Estudando:** Arquitetura de Software, Cloud e Testes Automatizados
+- 🧩 **Metodologias:** Scrum, Clean Code e Boas Práticas de Engenharia
+
+---
+
+### 🚀 Projetos em Destaque
+
+* 🎮 **[Corra, Dupla, Corra!](https://corraduplacorra.runasp.net/)**  
+  *Endless runner* web e fan-made baseado no clássico clássico Gre-Nal.
+
+* 🐶 **[PetCron](https://petcron.com.br)**  
+  Sistema completo para gestão de saúde e rotina de pets.
+
+* 🐾 **[Adote 4 Patas](https://adote4patas.com.br)**  
+  Plataforma digital independente para conectar animais de abrigos a novos tutores.
+
+* 🛠️ **[JSON Formatter](https://jsonformatter.dev.br)**  
+  Ferramenta web gratuita para manipulação, formatação e validação de dados JSON.Json Formatter] (https://jsonformatter.dev.br) - Ferramenta online e gratuita voltada para desenvolvedores e profissionais de tecnologia, destinada a manipular, formatar e validar dados em formato JSON.
    
 - 🤝 **Disponível para:** oportunidades, colaborações e trocas sobre tecnologia
 
