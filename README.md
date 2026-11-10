@@ -129,7 +129,7 @@ Produtos próprios desenvolvidos e publicados, atendendo usuários reais:
 
 <p align="center">
   <a href="https://corraduplacorra.runasp.net/">
-    <img src="https://raw.githubusercontent.com/ercunha/CorraDuplaCorra/main/CorraDuplaCorra/wwwroot/Corra%20Dupla%20Corra_%20grenalRivalidade%20Fantasma.jpg" alt="Gameplay de Corra, Dupla, Corra!" width="820" />
+    <img src="https://github.com/ercunha/ercunha/blob/main/Corra%20Dupla%20Corra_%20grenalRivalidade%20Fantasma.jpg?raw=true" alt="Gameplay de Corra, Dupla, Corra!" width="820" />
   </a>
 </p>
 
