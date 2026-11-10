@@ -110,12 +110,12 @@ Atuação em infraestrutura e processos, com visão de ponta a ponta do ciclo de
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=ercunha&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ercunha&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ercunha&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ercunha&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Linguagens mais usadas" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=ercunha&theme=github-dark-blue&hide_border=true" alt="Sequência de commits" />
+  <img src="https://streak-stats.demolab.com?user=ercunha&theme=dark&hide_border=true" alt="Sequência de commits" />
 </p>
 
 
