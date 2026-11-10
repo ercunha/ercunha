@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ercunha/ercunha/blob/main/banner.png?raw=true" alt="Evandro Rocha da Cunha - Desenvolvedor .NET Full Stack" width="50%" />
+  <img src="https://github.com/ercunha/ercunha/blob/main/banner.png?raw=true" alt="Evandro Rocha da Cunha - Desenvolvedor .NET Full Stack" width="100%" />
 </p>
 
 <p align="center">
